@@ -1,0 +1,15 @@
+# ProDiMo model outputs (too large for git)
+*.out
+*.fits
+*.fits.gz
+models/
+modelos/
+
+# results of run_analysis.py
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
