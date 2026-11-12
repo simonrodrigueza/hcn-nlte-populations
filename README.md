@@ -21,9 +21,8 @@ sub-thermally populated.
 
 ## Context
 
-<!-- TODO: paper citation, link and description of the contribution -->
-This code was written for **Frediani et al.** (citation and link to be added) as my
-contribution to the analysis of NLTE effects on the HCN mid-infrared emission.
+This code is my contribution, as co-author, to **[Frediani et al. (2026)](https://arxiv.org/abs/2609.08621)**,
+where it was used to analyse NLTE effects on the HCN mid-infrared emission.
 
 ## Method
 
